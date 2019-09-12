@@ -1,0 +1,75 @@
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\DotNet3.exe.config
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\DotNet3.exe
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\DotNet3.pdb
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.csprojAssemblyReference.cache
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.Properties.Resources.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.GenerateResource.cache
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.CoreCompileInputs.cache
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.exe
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.pdb
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\DotNet3.mdf
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\DotNet3_log.ldf
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\EntityFramework.dll
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\EntityFramework.xml
+c:\users\alenj\source\repos\DotNet3\DotNet3\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.CopyComplete
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.Migrations.Init.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.Start.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.Studenti.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.StudentiPopis.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.StudentiUnos.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.Predmeti.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiStudenti.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiUnos.resources
+c:\users\alenj\source\repos\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiUnosStudenta.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\DotNet3.mdf
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\DotNet3_log.ldf
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\DotNet3.exe.config
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\DotNet3.exe
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\DotNet3.pdb
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\EntityFramework.dll
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\EntityFramework.xml
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.Migrations.Init.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.Predmeti.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiStudenti.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiUnos.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiUnosStudenta.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.Start.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.Studenti.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.StudentiPopis.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.StudentiUnos.resources
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.exe
+C:\Users\Korisnik\Desktop\DotNet3 (1)\DotNet3\DotNet3\obj\Debug\DotNet3.pdb
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\DotNet3.mdf
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\DotNet3_log.ldf
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\DotNet3.exe.config
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\DotNet3.exe
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\DotNet3.pdb
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\EntityFramework.dll
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\EntityFramework.xml
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.Migrations.Init.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.Predmeti.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiStudenti.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiUnos.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.PredmetiUnosStudenta.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.Start.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.Studenti.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.StudentiPopis.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.StudentiUnos.resources
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.exe
+C:\Users\Korisnik\Desktop\DotNet3\DotNet3\obj\Debug\DotNet3.pdb
